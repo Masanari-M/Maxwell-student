@@ -1,0 +1,1249 @@
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:48:32 PM  Mar 29, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 50326. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_HS5' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\maxwell_optimization.py", line 10, in <module>
+        [error]     m3d.save_project("test_project.aedt")
+        [error]   File "C:\Users\miyamoto\AppData\Local\Programs\Python\Python310\lib\os.py", line 225, in makedirs
+        [error]     mkdir(name, mode)
+        [error] [winerror 3] 指定されたパスが見つかりません。: '' on save_project
+        [error] Last Electronics Desktop Message - [error] [winerror 3] 指定されたパスが見つかりません。: '' on save_project  
+        [error] Method arguments: 
+        [error]     file_name = test_project.aedt 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 4:48:45 PM  Mar 29, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:28:40 PM  Mar 29, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 50980. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_91J' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\electrode_L.py", line 26, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, closed=True, name="OptL", matname="copper")
+        [error] Geometrymodeler.create_polyline() got an unexpected keyword argument 'closed' on create_polyline
+        [error] Last Electronics Desktop Message - [error] geometrymodeler.create_polyline() got an unexpected keyword argument 'closed' on create_polyline  
+        [error] Method arguments: 
+        [error]     points = [[0, 0], [0, 20], [2, 19], [4, 18.8], [6, 18.5], [7.0, 18], [7.2, 16], [7.4, 14], [7.6, 12], [20, 12], [20, 0], [0, 0]] 
+        [error]     name = OptL 
+        [error]     material = copper 
+        [error]     closed = True 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\electrode_L.py", line 27, in <module>
+        [error]     m3d.modeler.sweep_along_vector(poly, [0, 0, 1])  # 厚み方向 1mm
+        [error] AEDT API Error on sweep_along_vector
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (05:28:49 pm  mar 29, 2025)  
+        [error] Method arguments: 
+        [error]     sweep_vector = [0, 0, 1] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\electrode_L.py", line 29, in <module>
+        [error]     m3d.save_project("opt_ljunction.aedt")
+        [error]   File "C:\Users\miyamoto\AppData\Local\Programs\Python\Python310\lib\os.py", line 225, in makedirs
+        [error]     mkdir(name, mode)
+        [error] [winerror 3] 指定されたパスが見つかりません。: '' on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (05:28:49 pm  mar 29, 2025)  
+        [error] Method arguments: 
+        [error]     file_name = opt_ljunction.aedt 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 5:28:52 PM  Mar 29, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:29:11 PM  Mar 29, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+[warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+
+The project 'Project1' has been edited and/or solved. Do you want to save the changes?
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 51014. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_NUE' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\electrode_L.py", line 26, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, closed=True, name="OptL", matname="copper")
+        [error] Geometrymodeler.create_polyline() got an unexpected keyword argument 'closed' on create_polyline
+        [error] Last Electronics Desktop Message - [error] geometrymodeler.create_polyline() got an unexpected keyword argument 'closed' on create_polyline  
+        [error] Method arguments: 
+        [error]     points = [[0, 0], [0, 20], [2, 19], [4, 18.8], [6, 18.5], [7.0, 18], [7.2, 16], [7.4, 14], [7.6, 12], [20, 12], [20, 0], [0, 0]] 
+        [error]     name = OptL 
+        [error]     material = copper 
+        [error]     closed = True 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\electrode_L.py", line 27, in <module>
+        [error]     m3d.modeler.sweep_along_vector(poly, [0, 0, 1])  # 厚み方向 1mm
+        [error] AEDT API Error on sweep_along_vector
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (05:29:21 pm  mar 29, 2025)  
+        [error] Method arguments: 
+        [error]     sweep_vector = [0, 0, 1] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\electrode_L.py", line 29, in <module>
+        [error]     m3d.save_project("opt_ljunction.aedt")
+        [error]   File "C:\Users\miyamoto\AppData\Local\Programs\Python\Python310\lib\os.py", line 225, in makedirs
+        [error]     mkdir(name, mode)
+        [error] [winerror 3] 指定されたパスが見つかりません。: '' on save_project
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (05:29:21 pm  mar 29, 2025)  
+        [error] Method arguments: 
+        [error]     file_name = opt_ljunction.aedt 
+        [error] **************************************************************
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard. 
+        [warning] Electronics Desktop Student cannot be closed right now because it is being used by another application, script or extension wizard.
+        [info] The project 'Project1' has been edited and/or solved. Do you want to save the changes?
+      Project1 (C:/Users/miyamoto/Documents/Ansoft/)
+        Maxwell 3D_NUE (Magnetostatic)
+          [error] Script macro error: Selections: Part with name False is not found! Selections: At least one part should be selected for the operation.  (05:29:21 PM  Mar 29, 2025)
+-- Message Window --
+Stopping Batch Run: 5:39:49 PM  Mar 29, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:56:18 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 53748. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_2OS' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\maxwell_optimization.py", line 10, in <module>
+        [error]     m3d.save_project("test_project.aedt")
+        [error]   File "C:\Users\miyamoto\AppData\Local\Programs\Python\Python310\lib\os.py", line 225, in makedirs
+        [error]     mkdir(name, mode)
+        [error] [winerror 3] 指定されたパスが見つかりません。: '' on save_project
+        [error] Last Electronics Desktop Message - [error] [winerror 3] 指定されたパスが見つかりません。: '' on save_project  
+        [error] Method arguments: 
+        [error]     file_name = test_project.aedt 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 3:56:31 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:58:13 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 53803. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_75C' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_75C
+        [info] Active Design set to Maxwell 3D_75C
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 3:59:09 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:06:06 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 53899. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_GJI' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="copper", solve_inside=True)
+        [error] Geometrymodeler.create_polyline() got an unexpected keyword argument 'solve_inside' on create_polyline
+        [error] Last Electronics Desktop Message - [error] geometrymodeler.create_polyline() got an unexpected keyword argument 'solve_inside' on create_polyline  
+        [error] Method arguments: 
+        [error]     points = [[0, 0], [0, 20], [2, 19.0], [4, 18.0], [6, 17.0], [10, 10], [20, 0], [0, 0]] 
+        [error]     name = Complex2D 
+        [error]     material = copper 
+        [error]     solve_inside = True 
+        [error] **************************************************************
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_GJI
+        [info] Active Design set to Maxwell 3D_GJI
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 4:08:20 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:08:26 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 53971. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_JI6' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_JI6
+        [info] Active Design set to Maxwell 3D_JI6
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 4:10:15 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:10:22 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54042. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_OPT' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold", solve_inside=False)
+        [error] Geometrymodeler.create_polyline() got an unexpected keyword argument 'solve_inside' on create_polyline
+        [error] Last Electronics Desktop Message - [error] geometrymodeler.create_polyline() got an unexpected keyword argument 'solve_inside' on create_polyline  
+        [error] Method arguments: 
+        [error]     points = [[0, 0], [0, 20], [2, 19.0], [4, 18.0], [6, 17.0], [10, 10], [20, 0], [0, 0]] 
+        [error]     name = Complex2D 
+        [error]     material = gold 
+        [error] **************************************************************
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_OPT
+        [info] Active Design set to Maxwell 3D_OPT
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 4:11:27 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:11:35 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54087. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_06O' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [0, 0] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [0, 20] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [2, 19.0] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [4, 18.0] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [6, 17.0] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [10, 10] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [20, 0] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [0, 0] 
+        [error] **************************************************************
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(points, name="Complex2D", material="gold")
+        [error] AEDT API Error on create_polyline
+        [error] Last Electronics Desktop Message - [error] script macro error: body could not be created for part because of invalid parameters to polyline operation.  (04:11:46 pm  apr 04, 2025)  
+        [error] Method arguments: 
+        [error]     points = [[0, 0], [0, 20], [2, 19.0], [4, 18.0], [6, 17.0], [10, 10], [20, 0], [0, 0]] 
+        [error]     name = Complex2D 
+        [error]     material = gold 
+        [error] **************************************************************
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_06O
+        [info] Active Design set to Maxwell 3D_06O
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 4:13:39 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:13:46 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54166. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_YDH' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 24, in <module>
+        [error]     face = m3d.modeler.cover_lines(poly.id, name="Surface")  # 2D平面を自動で面に変換
+        [error] Geometrymodeler.cover_lines() got an unexpected keyword argument 'name' on cover_lines
+        [error] Last Electronics Desktop Message - [error] geometrymodeler.cover_lines() got an unexpected keyword argument 'name' on cover_lines  
+        [error] Method arguments: 
+        [error]     assignment = 6 
+        [error]     name = Surface 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 25, in <module>
+        [error]     volume = m3d.modeler.sweep_along_vector(face, [0, 0, 1])  # 厚み1mmで押し出し
+        [error] AEDT API Error on sweep_along_vector
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (04:13:56 pm  apr 04, 2025)  
+        [error] Method arguments: 
+        [error]     sweep_vector = [0, 0, 1] 
+        [error] **************************************************************
+        [info] Project your_filename Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project your_filename exists and has been read.
+        [info] Active Design set to Maxwell 3D_YDH
+        [info] Active Design set to Maxwell 3D_YDH
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 4:14:36 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:14:51 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54203. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_TYM' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 24, in <module>
+        [error]     face = m3d.modeler.cover_lines(poly.id, name="Surface")  # 2D平面を自動で面に変換
+        [error] Geometrymodeler.cover_lines() got an unexpected keyword argument 'name' on cover_lines
+        [error] Last Electronics Desktop Message - [error] geometrymodeler.cover_lines() got an unexpected keyword argument 'name' on cover_lines  
+        [error] Method arguments: 
+        [error]     assignment = 6 
+        [error]     name = Surface 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 25, in <module>
+        [error]     volume = m3d.modeler.sweep_along_vector(face, [0, 0, 1])  # 厚み1mmで押し出し
+        [error] AEDT API Error on sweep_along_vector
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name false is not found! selections: at least one part should be selected for the operation.  (04:15:01 pm  apr 04, 2025)  
+        [error] Method arguments: 
+        [error]     sweep_vector = [0, 0, 1] 
+        [error] **************************************************************
+        [info] Project your_filename Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project your_filename exists and has been read.
+        [info] Active Design set to Maxwell 3D_TYM
+        [info] Active Design set to Maxwell 3D_TYM
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 4:15:37 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:18:32 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54383. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_C7M' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 25, in <module>
+        [error]     volume = m3d.modeler.sweep_along_vector(face, [0, 0, 1])  # 厚み1mmで押し出し
+        [error] AEDT API Error on sweep_along_vector
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name true is not found! selections: at least one part should be selected for the operation.  (04:18:42 pm  apr 04, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = True 
+        [error]     sweep_vector = [0, 0, 1] 
+        [error] **************************************************************
+        [info] Project create_polye Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project create_polye exists and has been read.
+        [info] Active Design set to Maxwell 3D_C7M
+        [info] Active Design set to Maxwell 3D_C7M
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 4:20:23 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:20:34 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54435. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_TEK' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_TEK
+        [info] Active Design set to Maxwell 3D_TEK
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 4:22:13 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:22:20 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54494. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_W7G' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project create_poly_closed Saved correctly
+-- Message Window --
+Stopping Batch Run: 4:22:32 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:22:52 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54534. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_LQ8' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project create_poly_closed Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project create_poly_closed exists and has been read.
+        [info] Active Design set to Maxwell 3D_LQ8
+        [info] Active Design set to Maxwell 3D_LQ8
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:18:04 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:21:08 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55187. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_5TC' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project create_poly_closed Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project create_poly_closed exists and has been read.
+        [info] Active Design set to Maxwell 3D_5TC
+        [info] Active Design set to Maxwell 3D_5TC
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:22:08 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:22:39 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55232. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_QJV' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project create_poly_closed Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project create_poly_closed exists and has been read.
+        [info] Active Design set to Maxwell 3D_QJV
+        [info] Active Design set to Maxwell 3D_QJV
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:23:09 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:23:14 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55271. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_4VJ' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project create_poly_closed Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project create_poly_closed exists and has been read.
+        [info] Active Design set to Maxwell 3D_4VJ
+        [info] Active Design set to Maxwell 3D_4VJ
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:25:50 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:26:00 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55331. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_DNZ' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 37, in <module>
+        [error]     volume = m3d.modeler.sweep_along_vector(face, [0, 0, 1])  # 厚み1mm
+        [error] AEDT API Error on sweep_along_vector
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name true is not found! selections: at least one part should be selected for the operation.  (05:26:10 pm  apr 04, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = True 
+        [error]     sweep_vector = [0, 0, 1] 
+        [error] **************************************************************
+        [info] Project create_poly_closed Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project create_poly_closed exists and has been read.
+        [info] Active Design set to Maxwell 3D_DNZ
+        [info] Active Design set to Maxwell 3D_DNZ
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:30:17 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:30:23 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55401. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_86W' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project final_electrode_polyline3D Saved correctly
+-- Message Window --
+Stopping Batch Run: 5:30:35 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:30:56 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55435. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_BDR' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project final_electrode_polyline3D Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project final_electrode_polyline3D exists and has been read.
+        [info] Active Design set to Maxwell 3D_BDR
+        [info] Active Design set to Maxwell 3D_BDR
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:34:13 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:34:19 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55491. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_5Q1' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_5Q1
+        [info] Active Design set to Maxwell 3D_5Q1
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:38:57 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:39:03 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 56212. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_E6Y' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_E6Y
+        [info] Active Design set to Maxwell 3D_E6Y
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:39:39 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:41:03 PM  Apr 04, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 56270. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_4ZP' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project final_poly_solid Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project final_poly_solid exists and has been read.
+        [info] Active Design set to Maxwell 3D_4ZP
+        [info] Active Design set to Maxwell 3D_4ZP
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 5:41:43 PM  Apr 04, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:14:30 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 59259. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_23Y' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Project final_poly_solid Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project final_poly_solid exists and has been read.
+        [info] Active Design set to Maxwell 3D_23Y
+        [info] Active Design set to Maxwell 3D_23Y
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 2:16:41 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:16:56 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 59311. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_5VO' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 27, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] Geometrymodeler.create_polyline() got an unexpected keyword argument 'closed' on create_polyline
+        [error] Last Electronics Desktop Message - [error] geometrymodeler.create_polyline() got an unexpected keyword argument 'closed' on create_polyline  
+        [error] Method arguments: 
+        [error]     points = [[0, 0, 0], [0, 20, 0], [2, 19.0, 0], [4, 18.0, 0], [6, 17.0, 0], [10, 10, 0], [20, 0, 0], [0, 0, 0]] 
+        [error]     segment_type = Line 
+        [error]     name = MyShape 
+        [error]     material = gold 
+        [error]     closed = True 
+        [error] **************************************************************
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_5VO
+        [info] Active Design set to Maxwell 3D_5VO
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 2:42:35 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:42:42 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 59810. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_ODE' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 27, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] AEDT API Error on create_polyline
+        [error] Last Electronics Desktop Message - [error] script macro error: command execution error, please see details in message window. (02:42:53 pm  apr 05, 2025)  
+        [error] Method arguments: 
+        [error]     points = [[0, 0, 0], [0, 20, 0], [2, 19.0, 0], [4, 18.0, 0], [6, 17.0, 0], [10, 10, 0], [20, 0, 0], [0, 0, 0]] 
+        [error]     segment_type = Line 
+        [error]     cover_surface = True 
+        [error]     close_surface = True 
+        [error]     name = MyShape 
+        [error]     material = gold 
+        [error] **************************************************************
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_ODE
+        [info] Active Design set to Maxwell 3D_ODE
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 2:43:05 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:43:54 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 59848. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_G8N' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 29, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] AEDT API Error on create_polyline
+        [error] Last Electronics Desktop Message - [error] script macro error: command execution error, please see details in message window. (02:44:04 pm  apr 05, 2025)  
+        [error] Method arguments: 
+        [error]     points = [[0, 0, 0], [0, 20, 0], [2, 19.0, 0], [4, 18.0, 0], [6, 17.0, 0], [10, 10, 0], [20, 0, 0], [0, 0, 0]] 
+        [error]     segment_type = Line 
+        [error]     cover_surface = True 
+        [error]     close_surface = True 
+        [error]     name = MyShape 
+        [error]     material = gold 
+        [error] **************************************************************
+        [info] Project final_poly_solid Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project final_poly_solid exists and has been read.
+        [info] Active Design set to Maxwell 3D_G8N
+        [info] Active Design set to Maxwell 3D_G8N
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 2:46:43 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:46:49 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 59915. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_D7N' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [0, 0] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [0, 20] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] List index out of range on _pl_point
+        [error] Last Electronics Desktop Message - [error] list index out of range on _pl_point  
+        [error] Method arguments: 
+        [error]     pt = [0, 0] 
+        [error] **************************************************************
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 28, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] AEDT API Error on create_polyline
+        [error] Last Electronics Desktop Message - [error] script macro error: body could not be created for part because of invalid parameters to polyline operation.  (02:47:00 pm  apr 05, 2025)  
+        [error] Method arguments: 
+        [error]     points = [[0, 0], [0, 20], [2, 19.0], [4, 18.0], [6, 17.0], [10, 10], [20, 0], [0, 0]] 
+        [error]     segment_type = Line 
+        [error]     cover_surface = True 
+        [error]     close_surface = True 
+        [error]     name = MyShape 
+        [error]     material = gold 
+        [error] **************************************************************
+        [info] Project final_poly_solid Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project final_poly_solid exists and has been read.
+        [info] Active Design set to Maxwell 3D_D7N
+        [info] Active Design set to Maxwell 3D_D7N
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 2:51:25 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:51:32 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 60030. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_WR0' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 29, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] AEDT API Error on create_polyline
+        [error] Last Electronics Desktop Message - [error] script macro error: command execution error, please see details in message window. (02:51:42 pm  apr 05, 2025)  
+        [error] Method arguments: 
+        [error]     points = [[0, 0, 0], [0, 20, 0], [2, 19.0, 0], [4, 18.0, 0], [6, 17.0, 0], [10, 10, 0], [20, 0, 0], [0, 0, 0]] 
+        [error]     segment_type = Line 
+        [error]     cover_surface = True 
+        [error]     close_surface = True 
+        [error]     name = MyShape 
+        [error]     material = gold 
+        [error] **************************************************************
+        [info] Project final_poly_solid Saved correctly
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project final_poly_solid exists and has been read.
+        [info] Active Design set to Maxwell 3D_WR0
+        [info] Active Design set to Maxwell 3D_WR0
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 3:01:41 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:01:47 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 60251. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_XL2' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 3:01:59 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:02:07 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 60284. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_6NK' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 25, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] AEDT API Error on create_polyline
+        [error] Last Electronics Desktop Message - [error] script macro error: command execution error, please see details in message window. (03:02:17 pm  apr 05, 2025)  
+        [error] Method arguments: 
+        [error]     points = [[0, 0, 0], [0, 20, 0], [2, 20, 0], [4, 20, 0], [6, 20, 0], [10, 10, 0], [20, 0, 0], [0, 0, 0]] 
+        [error]     segment_type = Line 
+        [error]     cover_surface = True 
+        [error]     close_surface = True 
+        [error]     name = MyShape 
+        [error]     material = gold 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 33, in <module>
+        [error]     swept = m3d.modeler.sweep_along_vector("MyShape", [0, 0, 1])
+        [error] AEDT API Error on sweep_along_vector
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name myshape is not found! selections: at least one part should be selected for the operation.  (03:02:17 pm  apr 05, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = MyShape 
+        [error]     sweep_vector = [0, 0, 1] 
+        [error] **************************************************************
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_6NK
+        [info] Active Design set to Maxwell 3D_6NK
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 3:06:34 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:06:43 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 60341. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_SWX' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 22, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] AEDT API Error on create_polyline
+        [error] Last Electronics Desktop Message - [error] script macro error: command execution error, please see details in message window. (03:06:54 pm  apr 05, 2025)  
+        [error] Method arguments: 
+        [error]     points = [[0, 0, 0], [10, 0, 0], [5, 10, 0], [0, 0, 0]] 
+        [error]     segment_type = Line 
+        [error]     cover_surface = True 
+        [error]     close_surface = True 
+        [error]     name = MyShape 
+        [error]     material = gold 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 30, in <module>
+        [error]     swept = m3d.modeler.sweep_along_vector("MyShape", [0, 0, 1])
+        [error] AEDT API Error on sweep_along_vector
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: part with name myshape is not found! selections: at least one part should be selected for the operation.  (03:06:54 pm  apr 05, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = MyShape 
+        [error]     sweep_vector = [0, 0, 1] 
+        [error] **************************************************************
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_SWX
+        [info] Active Design set to Maxwell 3D_SWX
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 3:08:44 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:08:51 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 60383. 
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] Project Project1 has been created.
+        [info] No design is present. Inserting a new design.
+        [info] Added design 'Maxwell 3D_YML' of type Maxwell 3D.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\miyamoto\Documents\Maxwell3D\cui_student\maxwell_optimization\create_poly.py", line 22, in <module>
+        [error]     poly = m3d.modeler.create_polyline(
+        [error] Geometrymodeler.create_polyline() got an unexpected keyword argument 'closed' on create_polyline
+        [error] Last Electronics Desktop Message - [error] geometrymodeler.create_polyline() got an unexpected keyword argument 'closed' on create_polyline  
+        [error] Method arguments: 
+        [error]     points = [[0, 0, 0], [10, 0, 0], [5, 10, 0], [0, 0, 0]] 
+        [error]     segment_type = Line 
+        [error]     name = MyShape 
+        [error]     material = gold 
+        [error]     closed = True 
+        [error] **************************************************************
+        [warning] AEDT started as Student version, but requested as Regular version.
+        [info] No project is defined. Project Project1 exists and has been read.
+        [info] Active Design set to Maxwell 3D_YML
+        [info] Active Design set to Maxwell 3D_YML
+        [info] Aedt Objects correctly read
+-- Message Window --
+Stopping Batch Run: 3:10:01 PM  Apr 05, 2025
+ 
+Ansys Electronics Desktop Student Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: C:\Program Files\AnsysEM\Ansys Student\v242\Win64\ansysedtsv.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:10:08 PM  Apr 05, 2025
+Running as user : DESKTOP-QJ1IEOF\miyamoto
+Temp directory: C:\temp
+Project directory: C:\Users\miyamoto\Documents\Ansoft
